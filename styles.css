@@ -27,23 +27,23 @@ hr {
 .post-container {
     max-width: 800px;
     margin: 50px auto;
-    background-color: #f0f0f0;
+    background-color: #14171A;
     padding: 20px;
     border-radius: 10px;
-    text-align: left;
+    text-align: center;
 }
 
 .post-title {
     font-size: 30px;
     font-weight: 700;
     margin-bottom: 10px;
-    color: black;
+    color: white;
 }
 
 .post-content {
     font-size: 16px;
     margin-bottom: 20px;
-    color: black;
+    color: grey;
 }
 
 .post-author {
